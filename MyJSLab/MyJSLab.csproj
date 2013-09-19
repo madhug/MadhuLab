@@ -57,10 +57,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="BubbleSort\bubbleSortVis\js\bubbleSort.js" />
-    <Content Include="BubbleSort\bubbleSortVis\js\paper.js" />
-    <Content Include="BubbleSort\bubbleSortVis\myCSS.css" />
-    <Content Include="BubbleSort\bubbleSortVis\test.html" />
+    <Content Include="js\bubbleSort.js" />
+    <Content Include="js\paper.js" />
+    <Content Include="styles\myCSS.css" />
+    <Content Include="bubbleSortViz.html" />
     <Content Include="LabHome.html" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -68,7 +68,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="BubbleSort\bubbleSortVis\web.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
