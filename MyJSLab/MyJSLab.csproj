@@ -57,8 +57,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="BubbleSort\bubbleSortVis\.gitattributes" />
-    <Content Include="BubbleSort\bubbleSortVis\.gitignore" />
     <Content Include="BubbleSort\bubbleSortVis\js\bubbleSort.js" />
     <Content Include="BubbleSort\bubbleSortVis\js\paper.js" />
     <Content Include="BubbleSort\bubbleSortVis\myCSS.css" />
@@ -70,36 +68,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="BubbleSort\bubbleSortVis\.git\config" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\description" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\FETCH_HEAD" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\HEAD" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\hooks\applypatch-msg.sample" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\hooks\commit-msg.sample" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\hooks\post-update.sample" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\hooks\pre-applypatch.sample" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\hooks\pre-commit.sample" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\hooks\pre-rebase.sample" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\hooks\prepare-commit-msg.sample" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\hooks\update.sample" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\index" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\info\exclude" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\logs\HEAD" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\logs\refs\heads\master" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\logs\refs\remotes\origin\HEAD" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\objects\41\2eeda78dc9de1186c2e0e1526764af82ab3431" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\objects\44\0faf01766bc7d9e38f28cf7ef33662d52e0a41" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\objects\59\2be51c61f03cfb3288ec2c9d490f81eb60b47f" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\objects\5e\bd21a16d61827ba9ee2b0353fbf6c8c8e88bca" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\objects\60\1d3bd449cb6fb46286cc7d903e5d8bf92c52f6" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\objects\9d\447dffa8f9a9924a0b761400fe2b6c047c84c6" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\objects\a4\e413cea7fa4fc78c713be1857f661e65226f8f" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\objects\d9\d46a37bce9f41c05bce20398ca6f044a9463c6" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\objects\dd\1c73cb5d1cb101f249d635b906ac8174f9cf10" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\objects\e4\d0aeaf6f19d6b6f02ca9927fade48ed4467c19" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\packed-refs" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\refs\heads\master" />
-    <Content Include="BubbleSort\bubbleSortVis\.git\refs\remotes\origin\HEAD" />
     <Content Include="BubbleSort\bubbleSortVis\web.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -108,12 +76,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="BubbleSort\bubbleSortVis\.git\branches\" />
-    <Folder Include="BubbleSort\bubbleSortVis\.git\objects\info\" />
-    <Folder Include="BubbleSort\bubbleSortVis\.git\objects\pack\" />
-    <Folder Include="BubbleSort\bubbleSortVis\.git\refs\tags\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
