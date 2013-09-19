@@ -1,0 +1,5 @@
+C:\Users\mgurupra\Desktop\Blog Stuff\MyJSLab\MyJSLab\bin\MyJSLab.dll
+C:\Users\mgurupra\Desktop\Blog Stuff\MyJSLab\MyJSLab\bin\MyJSLab.pdb
+C:\Users\mgurupra\Desktop\Blog Stuff\MyJSLab\MyJSLab\obj\Debug\MyJSLab.csprojResolveAssemblyReference.cache
+C:\Users\mgurupra\Desktop\Blog Stuff\MyJSLab\MyJSLab\obj\Debug\MyJSLab.dll
+C:\Users\mgurupra\Desktop\Blog Stuff\MyJSLab\MyJSLab\obj\Debug\MyJSLab.pdb
